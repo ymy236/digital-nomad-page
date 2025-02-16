@@ -303,5 +303,5 @@ git add .
 git commit -m "Initial commit"
 
 # 关联远程仓库
-git remote add origin https://github.com/你的用户名/digital-nomad-page.git
+git remote add origin https://github.com/ymy236/digital-nomad-page.git
 git push -u origin main
